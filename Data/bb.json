@@ -1,0 +1,40 @@
+
+  "episodes": [
+    {
+      "title": "Episode 1 - Grand Premiere",
+      "description": "The grand premiere of Bigg Boss Season 19 with all the new contestants entering the house.",
+      "downloads": [
+        { "quality": "1080p", "size": "2.35 GB", "url": "https://hubcloud.one/video/oar25hq25vmkzhc" },
+        { "quality": "720p", "size": "1.0 GB", "url": "https://hubcloud.one/video/qk28kb1cbc4mvoj" },
+        { "quality": "480p", "size": "465 MB", "url": "https://hubcloud.one/video/ldlktzck6s3pdpv" }
+      ]
+    },
+    {
+      "title": "Episode 2 - First Task",
+      "description": "Contestants face their first challenge as tensions begin to rise in the house.",
+      "downloads": [
+        { "quality": "1080p", "size": "2.4 GB", "url": "https://example.com/download/1080p" },
+        { "quality": "720p", "size": "1.1 GB", "url": "https://example.com/download/720p" },
+        { "quality": "480p", "size": "480 MB", "url": "https://example.com/download/480p" }
+      ]
+    },
+    {
+      "title": "Episode 3 - Nominations",
+      "description": "The first nomination round begins as contestants strategize to save themselves.",
+      "downloads": [
+        { "quality": "1080p", "size": "2.3 GB", "url": "https://example.com/download/1080p" },
+        { "quality": "720p", "size": "1.0 GB", "url": "https://example.com/download/720p" },
+        { "quality": "480p", "size": "470 MB", "url": "https://example.com/download/480p" }
+      ]
+    }, 
+    {
+      "title": "Episode 4 - Nominations",
+      "description": "The first nomination round begins as contestants strategize to save themselves.",
+      "downloads": [
+        { "quality": "1080p", "size": "2.3 GB", "url": "https://example.com/download/1080p" },
+        { "quality": "720p", "size": "1.0 GB", "url": "https://example.com/download/720p" },
+        { "quality": "480p", "size": "470 MB", "url": "https://example.com/download/480p" }
+      ]
+    }
+  ]
+}
