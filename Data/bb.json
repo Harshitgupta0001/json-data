@@ -1,10 +1,12 @@
 {
   "episodes": [
     {
-      "title": "Episode 3 - LIVE NOW 🔴",
-      "description": "LIVE 🔴",
+      "title": "Episode 3 - Day 02",
+      "description": "Nominations On Drama Full-on",
       "downloads": [
-        { "quality": "LIVE 🔴", "size": "🔴", "url": "https://livepeercdn.studio/hls/422fkmrtt0xsc3sp/index.m3u8" }
+        { "quality": "1080p", "size": " 1.0GB", "url": "https://gofile.io/d/7GOC7c" },
+        { "quality": "720p", "size": "441.03MB", "url": "https://gofile.io/d/bPGhqt" },
+        { "quality": "480p", "size": "196 MB", "url": "https://gofile.io/d/9P6pED" }
       ]
     },
     {
