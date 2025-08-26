@@ -1,12 +1,10 @@
 {
   "episodes": [
     {
-      "title": "Episode 3 - UPCOMING ",
-      "description": "UPCOMING... ",
+      "title": "Episode 3 - LIVE NOW 🔴",
+      "description": "LIVE 🔴",
       "downloads": [
-        { "quality": "1080p", "size": " ", "url": "" },
-        { "quality": "720p", "size": "", "url": "" },
-        { "quality": "480p", "size": "", "url": "" }
+        { "quality": "LIVE 🔴", "size": "🔴", "url": "https://livepeercdn.studio/hls/422fkmrtt0xsc3sp/index.m3u8" }
       ]
     },
     {
