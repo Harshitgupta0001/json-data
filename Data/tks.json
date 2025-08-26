@@ -1,0 +1,31 @@
+{
+  "episodes": [
+    {
+      "title": "Episode 3 - UPCOMING ",
+      "description": "UPCOMING... ",
+      "downloads": [
+        { "quality": "1080p", "size": " ", "url": "" },
+        { "quality": "720p", "size": "", "url": "" },
+        { "quality": "480p", "size": "", "url": "" }
+      ]
+    },
+    {
+      "title": "Episode 2 - Day 01",
+      "description": "Assembly Room Mayhem ",
+      "downloads": [
+        { "quality": "1080p", "size": " 1.06GB", "url": "https://gofile.io/d/dOx7VN" },
+        { "quality": "720p", "size": "447.03MB", "url": "https://gofile.io/d/WmggSQ" },
+        { "quality": "480p", "size": "201.80MB", "url": "https://gofile.io/d/uf2Aei" }
+      ]
+    },
+    {
+      "title": "Episode 1 - Grand Premiere",
+      "description": "The grand premiere of Bigg Boss Season 19 with all the new contestants entering the house.",
+      "downloads": [
+        { "quality": "1080p", "size": "2.35 GB", "url": "https://hubcloud.one/video/oar25hq25vmkzhc" },
+        { "quality": "720p", "size": "1.0 GB", "url": "https://hubcloud.one/video/qk28kb1cbc4mvoj" },
+        { "quality": "480p", "size": "465 MB", "url": "https://hubcloud.one/video/ldlktzck6s3pdpv" }
+      ]
+    } 
+  ]
+}
