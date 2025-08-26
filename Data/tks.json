@@ -1,31 +1,99 @@
 {
   "episodes": [
     {
-      "title": "Episode 3 - UPCOMING ",
-      "description": "UPCOMING... ",
+      "image": "",
+      "title": "Episode 10",
+      "description": "",
       "downloads": [
-        { "quality": "1080p", "size": " ", "url": "" },
+        { "quality": "480p", "size": "", "url": "" },
         { "quality": "720p", "size": "", "url": "" },
-        { "quality": "480p", "size": "", "url": "" }
+        { "quality": "1080p", "size": "", "url": "" }
       ]
     },
     {
-      "title": "Episode 2 - Day 01",
-      "description": "Assembly Room Mayhem ",
+      "image": "",
+      "title": "Episode 9",
+      "description": "",
       "downloads": [
-        { "quality": "1080p", "size": " 1.06GB", "url": "https://gofile.io/d/dOx7VN" },
-        { "quality": "720p", "size": "447.03MB", "url": "https://gofile.io/d/WmggSQ" },
-        { "quality": "480p", "size": "201.80MB", "url": "https://gofile.io/d/uf2Aei" }
+        { "quality": "480p", "size": "", "url": "" },
+        { "quality": "720p", "size": "", "url": "" },
+        { "quality": "1080p", "size": "", "url": "" }
       ]
     },
     {
-      "title": "Episode 1 - Grand Premiere",
-      "description": "The grand premiere of Bigg Boss Season 19 with all the new contestants entering the house.",
+      "image": "",
+      "title": "Episode 8",
+      "description": "",
       "downloads": [
-        { "quality": "1080p", "size": "2.35 GB", "url": "https://hubcloud.one/video/oar25hq25vmkzhc" },
-        { "quality": "720p", "size": "1.0 GB", "url": "https://hubcloud.one/video/qk28kb1cbc4mvoj" },
-        { "quality": "480p", "size": "465 MB", "url": "https://hubcloud.one/video/ldlktzck6s3pdpv" }
+        { "quality": "480p", "size": "", "url": "" },
+        { "quality": "720p", "size": "", "url": "" },
+        { "quality": "1080p", "size": "", "url": "" }
       ]
-    } 
+    },
+    {
+      "image": "",
+      "title": "Episode 7",
+      "description": "",
+      "downloads": [
+        { "quality": "480p", "size": "", "url": "" },
+        { "quality": "720p", "size": "", "url": "" },
+        { "quality": "1080p", "size": "", "url": "" }
+      ]
+    },
+    {
+      "image": "",
+      "title": "Episode 6",
+      "description": "",
+      "downloads": [
+        { "quality": "480p", "size": "", "url": "" },
+        { "quality": "720p", "size": "", "url": "" },
+        { "quality": "1080p", "size": "", "url": "" }
+      ]
+    },
+    {
+      "image": "",
+      "title": "Episode 5",
+      "description": "",
+      "downloads": [
+        { "quality": "720p", "size": "", "url": "" },
+        { "quality": "1080p", "size": "", "url": "" }
+      ]
+    },
+    {
+      "image": "",
+      "title": "Episode 4",
+      "description": "The Great Indian Kapil Show S03E04",
+      "downloads": [
+        { "quality": "720p", "size": "347 MB", "url": "https://new1.filesdl.in/watch/FqvSADGzEd" },
+        { "quality": "1080p", "size": "868 MB", "url": "https://new1.filesdl.in/watch/stlMw5pkPm" }
+      ]
+    },
+    {
+      "image": "",
+      "title": "Episode 3",
+      "description": "The.Great.Indian.Kapil.Show.S03E03",
+      "downloads": [
+        { "quality": "720p", "size": "318 MB", "url": "https://new1.filesdl.in/watch/Ufsz8EPIpq" },
+        { "quality": "1080p", "size": "798 MB", "url": "https://new1.filesdl.in/watch/BCDJGPOaWm" }
+      ]
+    },
+    {
+      "image": "",
+      "title": "Episode 2",
+      "description": "The.Great.Indian.Kapil.Show.S03E02.Metro.Masti",
+      "downloads": [
+        { "quality": "720p", "size": "360 MB", "url": "https://new1.filesdl.in/watch/MrcxFG21ZT" },
+        { "quality": "1080p", "size": "901 MB", "url": "https://new1.filesdl.in/watch/P6GqFaMjyw" }
+      ]
+    },
+    {
+      "image": "",
+      "title": "Episode 1",
+      "description": "The.Great.Indian.Kapil.Show.S03E01.Being.Salman",
+      "downloads": [
+        { "quality": "720p", "size": "427 mb", "url": "https://new1.filesdl.in/watch/CVrcWjk3hy" },
+        { "quality": "1080p", "size": "1.5 gb", "url": "https://new1.filesdl.in/watch/pqaPXz8fR9" }
+      ]
+    }
   ]
 }
