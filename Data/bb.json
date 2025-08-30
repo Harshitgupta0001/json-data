@@ -1,6 +1,15 @@
 {
   "episodes": [
     {
+      "title": "Episode 6 - Day 05",
+      "description": "Day 05 The Chosen One",
+      "downloads": [
+        { "quality": "1080p", "size": " 1.23 GB", "url": "https://gofile.io/d/uuYsTO" },
+        { "quality": "720p", "size": "523 MB", "url": "https://gofile.io/d/gA3xcy" },
+        { "quality": "480p", "size": "205 MB", "url": "https://gofile.io/d/oEg5Mc" }
+      ]
+    },
+    {
       "title": "Episode 5 - Day 04",
       "description": "Day 04 All Eyes on Captaincy!",
       "downloads": [
