@@ -1,1 +1,11 @@
-
+{
+  "episodes": [
+    {
+      "image": "https://envs.sh/PrM.jpg/HGBOTZ.jpg",
+      "title": "INDIA 🇮🇳 VS UAE",
+      "description": "ASIA CUP 2025",
+      "downloads": [
+        { "quality": "720p", "size": "353 MB", "url": "" },
+        { "quality": "1080p", "size": "902 MB", "url": "" }
+      ]
+    }
