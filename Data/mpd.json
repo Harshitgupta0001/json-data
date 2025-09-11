@@ -1,0 +1,14 @@
+{
+  "sony": {
+    "url": "https://example.com/manifest.mpd",
+    "keys": {
+      "abcd1234abcd1234abcd1234abcd1234": "1234567890abcdef1234567890abcdef"
+    }
+  },
+  "ten3": {
+    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.mpd",
+    "keys": {
+      "deadbeefdeadbeefdeadbeefdeadbeef": "cafebabecafebabecafebabecafebabe"
+    }
+  }
+}
