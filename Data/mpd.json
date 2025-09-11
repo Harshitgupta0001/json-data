@@ -10,6 +10,15 @@
     "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
     "keys": {
       "e31a5a81caff5d07ea2411a571fc2e59": "96c5ef69479732ae734f962748c19729" 
-    }
+    }, 
+    "poster" : "" 
+  },
+  "ss5": {
+    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
+    "keys": {
+      "5e833f4019554aa394ff6de2eb19bf78": "f60e08a145804890492f315b61789ac5"
+    }, 
+    "poster" : "" 
+  },
   }
 }
