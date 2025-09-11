@@ -1,14 +1,14 @@
 {
-  "sony": {
-    "url": "https://example.com/manifest.mpd",
+  "crickbuzz": {
+    "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
     "keys": {
-      "abcd1234abcd1234abcd1234abcd1234": "1234567890abcdef1234567890abcdef"
+      "48bef83b4c6a3c5189b01b0126210da4": "bd085230b7b09e50954fe0af111a8a9f"
     }
   },
-  "ten3": {
-    "url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.mpd",
+  "tnt": {
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
     "keys": {
-      "deadbeefdeadbeefdeadbeefdeadbeef": "cafebabecafebabecafebabecafebabe"
+      "e31a5a81caff5d07ea2411a571fc2e59": "96c5ef69479732ae734f962748c19729" 
     }
   }
 }
