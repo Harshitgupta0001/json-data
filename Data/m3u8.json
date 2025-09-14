@@ -1,4 +1,9 @@
 {
+  "adfree": {
+    "title": "hindi",
+    "url": "https://in-mc-fdlive.fancode.com/mumbai/136736_english_hls_9776118ee542689ta-di_h264/index.m3u8"
+  },
+{
   "pkl": {
     "title": "hindi",
     "url": "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8"
@@ -6,7 +11,7 @@
 {
   "hasiacup": {
     "title": "hindi",
-    "url": "https://in-mc-fdlive.fancode.com/mumbai/136734_english_hls_2f1137d78497898adfreeta-di_h264/index.m3u8"
+    "url": "https://dai.google.com/linear/hls/event/4OzQzZaVTQuBi-6Oiwdg/master.m3u8"
   },
   "easiacup": {
     "title": "english",
