@@ -1,5 +1,5 @@
 {
   "1": { "title": "Sports Live", "url": "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8" },
-  "2": { "title": "News Live", "url": "" },
-  "293": { "title": "Movie Channel", "url": "https://moiptvhls-i.akamaihd.net/hls/live/652398/moiptvhls/playlist.m3u8" }
+  "hindi": { "title": "fancode hindi", "url": "https://in-mc-fdlive.fancode.com/mumbai/136739_hindi_hls_e78b7fc25e7347ta-di_h264/index.m3u8" },
+  "english": { "title": "fancode english", "url": "https://in-mc-fdlive.fancode.com/mumbai/136739_english_hls_072d0dc2d317640ta-di_h264/index.m3u8" }
 }
