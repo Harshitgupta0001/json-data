@@ -1,21 +1,30 @@
 {
-  "Sony Ten 1": {
-    "144p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_108.m3u8",
-    "240p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_224.m3u8",
-    "360p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_664.m3u8",
-    "720p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_1300.m3u8",
-    "1080p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_3500.m3u8"
+  "ten1": {
+    "title": "Sony Ten 1",
+    "streams": {
+      "144p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_108.m3u8",
+      "240p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_224.m3u8",
+      "360p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_664.m3u8",
+      "720p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_1300.m3u8",
+      "1080p": "https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master_3500.m3u8"
+    }
   },
-  "Sony Ten 2": {
-    "144p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_108.m3u8",
-    "360p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_664.m3u8",
-    "720p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_1300.m3u8",
-    "1080p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8"
+  "ten2": {
+    "title": "Sony Ten 2",
+    "streams": {
+      "144p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_108.m3u8",
+      "360p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_664.m3u8",
+      "720p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_1300.m3u8",
+      "1080p": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8"
+    }
   },
-  "Sony Ten 3": {
-    "144p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_108.m3u8",
-    "240p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_224.m3u8",
-    "720p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_1300.m3u8",
-    "1080p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_3500.m3u8"
+  "ten3": {
+    "title": "Sony Ten 3",
+    "streams": {
+      "144p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_108.m3u8",
+      "240p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_224.m3u8",
+      "720p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_1300.m3u8",
+      "1080p": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_3500.m3u8"
+    }
   }
 }
