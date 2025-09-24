@@ -1,6 +1,6 @@
  {
   "pkl": { "title": "Sports Live", "url": "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8" },
-  "hindi": { "title": "fancode hindi", "url": "https://d285kzy11wjv54.cloudfront.net/out/v1/0c63d485c6904eea88bb6f04e1b73c77/index.m3u8" },
+  "hindi": { "title": "fancode hindi", "url": "https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758764403~acl=/*~id=37037869387414960876443028367985~hmac=df13688a33ba5872b155893a628114db2ef87e72f3eeeeb8369e5eac644ced4a" },
   "chk": {"title": "cchk", "url": "https://in-mc-fdlive.fancode.com/mumbai/133932_english_hls_c6cc779c6e70791ta-di_h264/index.m3u8"}, 
   "english": { "title": "fancode english", "url": "https://in-mc-fdlive.fancode.com/mumbai/136743_english_hls_36566c378196992ta-di_h264/index.m3u8" }, 
   "ss2" : { "title": "startl sport 2", "url": "https://mini.allinonereborn.online/jiotv-ww/app/ts_live_1984.m3u8"} 
