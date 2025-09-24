@@ -35,16 +35,16 @@
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
   "tnt1": {
-    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
     "keys": {
-      "ae26845bd33038a9c0774a0981007294": "63ac662dde310cfb4cc6f9b43b34196d"
+      "5deb190b1dac28e46c0bdada7668b7de":"ddd2b372702e42b0d2708a70b91dec8d"
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
-  "ss5": {
-    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
+  "criclife": {
+    "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
     "keys": {
-      "5e833f4019554aa394ff6de2eb19bf78": "f60e08a145804890492f315b61789ac5"
+      "ad59b720bd4b44d063686212b99484b5":"e1744990edf98acc729c0773a3766583" 
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   }
