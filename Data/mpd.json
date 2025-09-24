@@ -20,10 +20,10 @@
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
-  "ss1": {
-    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd39/dth.mpd",
+  "max": {
+    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd",
     "keys": {
-     "e36345ee8f2c44b3bfeecd8c8444ff96": "da4cf1b9b4f4325477874b3f1b84d9b9" 
+      "8268467a7a974698b18c9e63b13f73a4" :"6affb3ad6e781bc4afafad402e1d4510" 
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
