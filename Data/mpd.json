@@ -34,6 +34,13 @@
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
+  "tnt2": {
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+    "keys": {
+      "0d9efa8287a52a2497a281f7a9012211":"e4f832d372943014fe5c30928a90e547" 
+    }, 
+    "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
+  }, 
   "ss3": {
     "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src35/dth.mpd",
     "keys": {
