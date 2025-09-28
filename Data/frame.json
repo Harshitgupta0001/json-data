@@ -2,7 +2,7 @@
   "sliv": "https://vimeo.com/event/5403871/embed?type=current", 
   "pkl": "https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8",
   "slivhindi": "https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759105837~acl=/*~id=32046197396811354804778693895581~hmac=b25acb2892415b9e52fc018aed5b352adcb8b9fae1874c2fc164931809be9634", 
-  "slivenglish" : "https://livecfdai-mp.slivcdn.com/out/v1/312e886defb245b79cb004e6604db172/std_lrl-800300010_4.m3u8?hdntl=exp=1759106257~acl=*~hmac=9ac8bf6308162a7352b0b9268ac8d1f19abca1cd0cf7bf6a6ff2a261d261885c&originpath=/linear/hls/pb/event/yk9L2U37Sgilimx_SKGHhw/stream/36719785-2a39-4e68-bff6-a64bff19e854:SIN/variant/e83f821fa6f458130fa4ce213409beaa/bandwidth/4055040.m3u8", 
+  "slivenglish" : "https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759110110~acl=/*~id=89376125675120590231220356223851~hmac=a1dae447cbde9977cbfe3b7e3667824befeecd357533d2eb98f8dc94ebdecb27", 
     "480h": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1750582085~acl=%2f*~id=9e40d10a-ddc8-413e-8bad-fc250d39a4c7~data=hdntl~hmac=8a461045379b43fb696b19ba5f49f38d5017755a198550f54e5d47ecd4b974ae/master_900.m3u8",
     "720h": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1750582085~acl=%2f*~id=9e40d10a-ddc8-413e-8bad-fc250d39a4c7~data=hdntl~hmac=8a461045379b43fb696b19ba5f49f38d5017755a198550f54e5d47ecd4b974ae/master_1300.m3u8",
     "1080h": "https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1750582085~acl=%2f*~id=9e40d10a-ddc8-413e-8bad-fc250d39a4c7~data=hdntl~hmac=8a461045379b43fb696b19ba5f49f38d5017755a198550f54e5d47ecd4b974ae/master_3500.m3u8", 
