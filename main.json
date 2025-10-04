@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "TNT 1",
+      "logo": "https://seeklogo.com/vector-logo/486966/tnt-sports",
+      "url": "https://yourplayerlink.com/tnt1"
+    },
+    {
+      "name": "TNT 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/TNT_Logo.png",
+      "url": "https://yourplayerlink.com/tnt2"
+    },
+    {
+      "name": "Jio TV+",
+      "logo": "https://i.ibb.co/pjyJXTcW/1000084081-removebg-preview.png",
+      "url": "https://yourplayerlink.com/jiotvplus"
+    }
+  ]
+}
