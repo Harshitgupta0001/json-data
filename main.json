@@ -16,11 +16,6 @@
       "url": "http://crickeera.kesug.com/crickeera/Fancode"
     },
     {
-      "name": "sony",
-      "logo": "https://envs.sh/zek.png/HGBOTZ.jpg",
-      "url": "https://crickeera.kesug.com/crickeera/SonyLiv"
-    }, 
-    {
       "name": "WillowSports",
       "logo": "https://envs.sh/zE4.png/HGBOTZ.jpg",
       "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=willowsports"
@@ -54,6 +49,16 @@
       "name": "star Sports 2 Eng" ,
       "logo": "https://envs.sh/zev.jpg/HGBOTZ.jpg",
       "url": "https://sportseera.pages.dev/SportsEera/jiotv/jioplay?id=1141"
+    },
+    {
+      "name": "Bigg Boss s19",
+      "logo": "https://envs.sh/zpv.jpg/HGBOTZ.jpg",
+      "url": "https://sportseera.pages.dev/SportsEera/jiotv/jioplay?id=144"
+    }, 
+    {
+      "name": "sony event web",
+      "logo": "https://envs.sh/zek.png/HGBOTZ.jpg",
+      "url": "https://crickeera.kesug.com/crickeera/SonyLiv"
     }, 
     {
       "name": "Movies Hub",
