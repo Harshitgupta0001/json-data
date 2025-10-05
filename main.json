@@ -1,44 +1,64 @@
 { "notice": "hii there ! ", 
   "channels": [
     {
-      "name": "Jio TV+",
-      "logo": "https://envs.sh/zER.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/jiotvplus"
+      "name": "Join or Support",
+      "logo": "https://envs.sh/ze3.jpg/HGBOTZ.jpg",
+      "url": "https://t.me/SportsEera/3"
     },
     {
-      "name": "sony",
+      "name": "Jio TV+",
       "logo": "https://envs.sh/zER.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/jiotvplus"
+      "url": "https://sportseera.pages.dev/SportsEera/jiotv"
     },
     {
       "name": "Fancode Web",
       "logo": "https://envs.sh/zEU.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/jiotvplus"
+      "url": "http://crickeera.kesug.com/crickeera/Fancode"
     },
+    {
+      "name": "sony",
+      "logo": "https://envs.sh/zek.png/HGBOTZ.jpg",
+      "url": "https://crickeera.kesug.com/crickeera/SonyLiv"
+    }, 
     {
       "name": "WillowSports",
       "logo": "https://envs.sh/zE4.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/jiotvplus"
+      "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=willowsports"
     },
     {
       "name": "TNT 1",
       "logo": "https://envs.sh/zEz.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/tnt1"
+      "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt1"
     },
     {
       "name": "TNT 2",
       "logo": "https://envs.sh/zEz.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/tnt2"
+      "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt2"
     },
     {
       "name": "TNT 3",
       "logo": "https://envs.sh/zEz.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/tnt1"
+      "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt3"
     },
     {
       "name": "TNT 4",
       "logo": "https://envs.sh/zEz.png/HGBOTZ.jpg",
-      "url": "https://yourplayerlink.com/tnt2"
+      "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt4"
+    }, 
+    {
+      "name": "Star Sports 1 hindi",
+      "logo": "https://envs.sh/ze7.jpg/HGBOTZ.jpg",
+      "url": "https://sportseera.pages.dev/SportsEera/redirect/?u=aHR0cHM6Ly9vZGZpbml0eS5naXRodWIuaW8vY2hhbm5lbHovc3RyLWhpbg"
+    }, 
+    {
+      "name": "star Sports 2 Eng" ,
+      "logo": "https://envs.sh/zEz.png/HGBOTZ.jpg",
+      "url": "https://sportseera.pages.dev/SportsEera/jiotv/jioplay?id=1141"
+    }, 
+    {
+      "name": "Movies Hub",
+      "logo": "https://envs.sh/zer.jpg/HGBOTZ.jpg",
+      "url": "https://t.me/SportsEera/5"
     }
   ]
 }
