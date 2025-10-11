@@ -16,14 +16,14 @@
   "shoq": {
     "url": "https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
     "keys": {
-      "2f5ed0dd0a0ca671dee3948dbbe023d4":"7039b2570d5d429c7f4a7a4058ba5135" 
+      "a6dfc4f17d70d8d07639659193f03b25":"893eacfabe386144b81733d622a7ad17"
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
   "tnt4": {
     "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
     "keys": {
-      "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" 
+      "a6dfc4f17d70d8d07639659193f03b25" :"893eacfabe386144b81733d622a7ad17" 
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
