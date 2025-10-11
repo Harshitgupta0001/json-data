@@ -13,8 +13,8 @@
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
-  "astro": {
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/s6lart8ud5/out/v1/42768fe9ad134a1db6e6380ab404bf4c/cenc.mpd",
+  "shoq": {
+    "url": "https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
     "keys": {
       "2f5ed0dd0a0ca671dee3948dbbe023d4":"7039b2570d5d429c7f4a7a4058ba5135" 
     }, 
@@ -23,14 +23,7 @@
   "tnt4": {
     "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
     "keys": {
-      "5ccdccf0818d3d9ff6c26076fc1153ac" :"f8d7fda7e3f11a29b346a37e98f749d4" 
-    }, 
-    "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
-  },
-  "max": {
-    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd",
-    "keys": {
-      "4353847b507bc63c1d393ef2388e870d" :"0f578151bc9f90a9b77677686ded4f9b" 
+      "a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17" 
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   },
@@ -48,25 +41,11 @@
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   }, 
-  "ss3": {
-    "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src35/dth.mpd",
-    "keys": {
-      "162e06450b01432dbf9a98cc8c06e637":"fb10bbb01a468e7c41614fc0803648aa"
-    }, 
-    "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
-  },
+  
   "tnt1": {
     "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
     "keys": {
       "5deb190b1dac28e46c0bdada7668b7de":"ddd2b372702e42b0d2708a70b91dec8d"
     }, 
     "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
-  },
-  "criclife": {
-    "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
-    "keys": {
-      "ad59b720bd4b44d063686212b99484b5":"e1744990edf98acc729c0773a3766583" 
-    }, 
-    "poster" : "https://envs.sh/Ab3.jpg/HGBOTZ.jpg" 
   }
-}
