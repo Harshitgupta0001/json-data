@@ -1,3 +1,27 @@
 [
-  {  "name": "Bein 1", "url": "https://sportseera.pages.dev/SportsEera/webplayer/fra?id=willowsports"}
+  { "name": "PKL", "url": "https://sportseera.pages.dev/SportsEera/webplayer?m3u8=https://matcheslinks-eaa.pages.dev/fox.m3u8" },
+  { "name": "LaTV", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd?url=https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a" },
+  { "name": "Bein Sports", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd?url=https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8" },
+  { "name": "Fox Hindi", "url": "https://sportseera.pages.dev/SportsEera/webplayer/player?url=https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-115/3msa-4ftc/chunklist.m3u8" },
+  { "name": "Willows", "url": "https://matcheslinks-eaa.pages.dev/willowsrc" },
+  { "name": "Prime Hindi", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd?url=https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd&key=c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf" },
+  { "name": "Fox", "url": "https://sportseera.pages.dev/SportsEera/webplayer/player?url=https://iplislive.pages.dev/copy-karne-wala-gay-copy-karne-wala-gay-bsdk-2-baap-ka.m3u8" },
+  { "name": "Bigg Boss", "url": "https://sportseera.pages.dev/SportsEera/webplayer?m3u8=https://allinonereborn.xyz/opplextv-web1/live.php?id=356533" },
+  { "name": "SkyS Cric", "url": "https://tvgo.neocities.org/APPTV/crichd?id=skyscric" },
+  { "name": "T-Sport", "url": "https://sportseera.pages.dev/SportsEera/webplayer?m3u8=https://anywhere.pwisetthon.com/http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8" },
+  { "name": "SS2 Hindi", "url": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20Hindi%20HD" },
+  { "name": "SS2 English", "url": "https://sportseera.pages.dev/SportsEera/jiotv/jioplay?id=1141" },
+  { "name": "SS2 Telugu", "url": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20telHD" },
+  { "name": "SS2 Kannada", "url": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20kan" },
+  { "name": "SS1 Hindi", "url": "https://cricketstan.github.io/Channel-13" },
+  { "name": "SS1 English", "url": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20engHD" },
+  { "name": "SS1 Tamil", "url": "https://sportseera.pages.dev/SportsEera/jiotv/jioplay?id=1124" },
+  { "name": "SS3 English", "url": "https://sportseera.pages.dev/SportsEera/webplayer?m3u8=https://allinonereborn.xyz/opplextv-web1/live.php?id=167577" },
+  { "name": "SS Khel", "url": "https://sportseera.pages.dev/SportsEera/jiotv/jioplay?id=1998" },
+  { "name": "Willow Sports", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=willowsports" },
+  { "name": "TNT 4", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt4" },
+  { "name": "TNT 1", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt1" },
+  { "name": "TNT 2", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt2" },
+  { "name": "TNT 3", "url": "https://sportseera.pages.dev/SportsEera/webplayer/mpd.html?id=tnt3" },
+  { "name": "Hindi Stream", "url": "https://matcheslinks-eaa.pages.dev/foxsrc" }
 ]
