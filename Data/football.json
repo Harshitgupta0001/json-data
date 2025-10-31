@@ -1,12 +1,3 @@
 [
-  { "id": "willowsports", "name": "Bein 1" },
-  { "id": "bein2", "name": "Bein 2" },
-  { "id": "bein3", "name": "Bein 3" },
-  { "id": "euro1", "name": "Euro 1" },
-  { "id": "cbs", "name": "CBS" },
-  { "id": "usawest", "name": "USA West" },
-  { "id": "usaeast", "name": "USA East" },
-  { "id": "fubo", "name": "Fubo" },
-  { "id": "dazn", "name": "DAZN" },
-  { "id": "skylaliga", "name": "Sky LaLiga" }
+  {  "name": "Bein 1", "url": "https://sportseera.pages.dev/SportsEera/webplayer/fra?id=willowsports"}
 ]
